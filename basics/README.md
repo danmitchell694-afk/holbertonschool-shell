@@ -15,3 +15,4 @@ This folder contains scripts for learning the fundamentals of the Linux shell.
 * `9-firstdirdeletion`: Deletes the directory my_first_directory from /tmp.
 * `10-back`: Changes the working directory to the previous one.
 * `11-lists`: Lists all files in the current, parent, and /boot directories in long format, including hidden files.
+* `12-file_type`: Prints the type of the file named iamafile located in the /tmp directory.
