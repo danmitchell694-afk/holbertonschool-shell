@@ -10,3 +10,4 @@ This folder contains scripts for learning the fundamentals of the Linux shell.
 * `4-listmorefiles`: Displays current directory contents, including hidden files, in a long format.
 * `5-listfilesdigitonly`: Displays current directory contents, including hidden files, with user and group IDs displayed numerically in a long format.
 * `6-firstdirectory`: Creates a directory named my_first_directory inside the /tmp/ directory.
+* `7-movethatfile`: Moves the file betty from /tmp/ to /tmp/my_first_directory.
