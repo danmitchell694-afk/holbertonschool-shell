@@ -18,3 +18,4 @@ This folder contains scripts for learning the fundamentals of the Linux shell.
 * `12-file_type`: Prints the type of the file named iamafile located in the /tmp directory.
 * `13-symbolic_link`: Creates a symbolic link to /bin/ls named __ls__ in the current working directory.
 * `14-copy_html`: Copies all newer or missing .html files from the current working directory to the parent directory.
+* `15-lets_move`: Moves all files starting with an uppercase letter from the current directory to /tmp/u.
