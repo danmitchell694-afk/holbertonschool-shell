@@ -20,3 +20,4 @@ This folder contains scripts for learning the fundamentals of the Linux shell.
 * `14-copy_html`: Copies all newer or missing .html files from the current working directory to the parent directory.
 * `15-lets_move`: Moves all files starting with an uppercase letter from the current directory to /tmp/u.
 * `16-clean_emacs`: Deletes all files in the current working directory that end with the character ~.
+* `17-tree`: Creates nested directories welcome, welcome/to, and welcome/to/school with strict space limits.
