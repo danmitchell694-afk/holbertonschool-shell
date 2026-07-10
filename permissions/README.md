@@ -11,3 +11,4 @@ This folder contains my solutions for the Linux systems permissions and user man
 * `5-execute`: A script that adds execute permission to the owner of the file hello.
 * `6-multiple_permissions`: A script that adds execute permission to the owner and group owner, and read permission to other users, for the file hello.
 * `7-everybody`: A script that adds execute permission to the owner, the group owner, and all other users for the file hello.
+* `8-James_Bond`: A script that sets the permissions of the file hello to no permissions for owner and group, and full permissions for others.
