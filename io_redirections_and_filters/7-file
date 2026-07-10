@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Best School" > "$(echo -n "5c2a5c5c272242657374205363686f6f6c22275c5c2a245c3f5c2a5c2a5c2a5c2a5c3a29" | xxd -r -p)"
+echo "Best School" > '\*\\'"Best School"\'\\*$\?\*\*\*\*:)
